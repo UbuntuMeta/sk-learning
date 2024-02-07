@@ -1,6 +1,7 @@
 import numpy as np
 from sklearn import preprocessing as pp
 
+
 # norm calculation
 def norm():
     arr = np.random.randint(0, 100, 10)
